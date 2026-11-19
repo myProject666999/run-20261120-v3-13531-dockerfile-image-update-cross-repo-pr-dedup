@@ -1,0 +1,32 @@
+# IntelliJ files
+.idea/
+*.ipr
+*.iws
+*.iml
+*.DS_Store
+
+# Vim files
+*.swp
+*.bak
+tags
+
+# Eclipse files
+.classpath
+.project
+.settings
+test-output/
+
+configuration
+launcherHome*
+
+# Package Files #
+# Need some jar's #
+#*.jar
+*.war
+*.ear
+target/
+/test-results/
+.imageupdate/
+test-results/
+dependency-reduced-pom.xml
+new_patch_version.txt
